@@ -1,0 +1,17 @@
+This file contains description of folders and files in them.
+
+sms/assets:
+
+contains images & icons for support of ui.
+
+
+sms/lib/screens:
+
+#main:
+This manages the main run widget and theme context of the main app/widget.
+
+#getStart:
+The intro/starter screen for the app.
+
+#login:
+The login screen to get authentication's info of users.
